@@ -1,3 +1,8 @@
-# shayan
-برداشته شده توسط میکایئل
-تنها به خود شایان احمدی داده میشود
+# PayaM Resan Based On GroupButler
+
+# How to Run?
+__________
+
+
+
+
